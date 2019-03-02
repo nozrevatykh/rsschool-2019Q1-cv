@@ -28,7 +28,7 @@ Experience
 
 2013-2014
 
-: Bi-Logic, Minsk. Position - software software engineer. Responsibility - development a data validation subsystem for "Single Settlement and Information Space".
+: Bi-Logic, Minsk. Position - software engineer. Responsibility - development a data validation subsystem for "Single Settlement and Information Space".
 
 2011-2013
 : Bureau of technical inventory, Vitebsk. Position - software engineer. Responsibility - database replication.
