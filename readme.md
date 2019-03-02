@@ -1,1 +1,1 @@
-https://nozrevatyk.github.io/rsschool-2019Q1-cv/cv
+https://nozrevatykh.github.io/rsschool-2019Q1-cv/cv
