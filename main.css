@@ -5,6 +5,7 @@
   html,
   body {
     height: 100%;
+    background-color: beige;
   }
   .wrapper {
     display: flex;
@@ -16,7 +17,24 @@
   }
   .content {
     flex: 1 0 auto;
+    font-size: 16px;
   }
   footer {
     flex: 0 0 auto;
+  }
+ .content h2{
+    font-size:24px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid gray;
+  }
+  .content h1{
+    font-size:28px;
+    margin-bottom: 24px;
+    border-bottom: 1px solid gray;
+  }
+  .content section {
+    margin-bottom: 20px;
+  }
+  .content ul{
+    list-style-type:circle;
   }
